@@ -4,6 +4,7 @@ Welcome to my GitHub profile! I'm a passionate software engineer specializing in
 
 Thank you for visiting my profile! 🚀
 
+Visit my official website: [NamasteGeeks.com](https://www.namastegeeks.com)
 
 ## 💡 About Me
 
@@ -14,13 +15,11 @@ My technical interests include:
 - **DevOps** & **CI/CD Pipelines**: Automating workflows with tools like **Docker** and **Kubernetes** for streamlined development and deployment.
 - **Emerging Technologies**: Exploring the potential of **Generative AI** tools to revolutionize software engineering and problem-solving.
 
-
 ## 💼 About NamasteGeeks
 
 **NamasteGeeks** is a collective of innovative open-source projects designed to simplify workflows, enhance productivity, and empower developers around the world. These projects aim to improve both individual developer experiences and team collaboration, providing tools that make development smoother and more efficient.
 
 Explore all NamasteGeeks projects on GitHub: [NamasteGeeks GitHub](https://github.com/NamasteGeeks)
-
 
 ## 🌟 Featured Projects
 
@@ -29,9 +28,8 @@ Below are some of my **sole-contribution projects** that are freely available fo
 | Project | Description | Maintained Under | Link |
 |:--------|:-----------|:-----------------------------|:-----|
 | 🔐 **NamasteGuard** | A **VSCode extension** designed to scan for exposed secrets in the current workspace and generate detailed security reports, helping developers enhance their security practices. | NamasteGeeks | [NamasteGuard](https://github.com/NamasteGeeks/namaste-guard) |
-| 🌐 **NamasteCloud** | A **unified CLI tool** that simplifies cloud management by allowing users to work with multiple cloud providers (AWS, Azure, GCP, etc.) directly, without the need for separate CLI tools for each provider. | NamasteGeeks | [NamasteCloud](https://github.com/NamasteGeeks/namaste-cloud) |
 | 💻 **CSM-SSO-Plugin** | A **Chromium-based extension** that simplifies and automates the Single Sign-On (SSO) setup between CipherTrust Manager and Akeyless. The plugin allows users to configure SSO in less than a minute, bypassing complex manual configurations. | ThalesGroup | [CSM-SSO-Plugin](https://github.com/ThalesGroup/csm-sso-plugin) |
-
+| 🌐 **NamasteCloud** | A **unified CLI tool** that simplifies cloud management by allowing users to work with multiple cloud providers (AWS, Azure, GCP, etc.) directly, without the need for separate CLI tools for each provider. | NamasteGeeks | [NamasteCloud](https://github.com/NamasteGeeks/namaste-cloud) |
 
 ## 🛠️ Tech Stack
 
@@ -51,7 +49,6 @@ Here are some of the tools and technologies I work with:
 ![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
 ![Kafka](https://img.shields.io/badge/Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white)
 ![Hadoop](https://img.shields.io/badge/Hadoop-66CCFF?style=for-the-badge&logo=apachehadoop&logoColor=white)
-
 
 ## 📬 Let’s Connect!
 
